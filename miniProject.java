@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class miniProject {
+public class MiniProject {
     public static void main(String[] args) {
         // Mini project
         Scanner userInput = new Scanner(System.in);
